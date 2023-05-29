@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kitauji</title>
+    <link>www.kitauji.net/posts/</link>
+    <description>Recent content in Posts on Kitauji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 May 2023 19:21:53 +0000</lastBuildDate><atom:link href="www.kitauji.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>www.kitauji.net/posts/mypost/</link>
+      <pubDate>Mon, 29 May 2023 19:21:53 +0000</pubDate>
+      
+      <guid>www.kitauji.net/posts/mypost/</guid>
+      <description>This is a test</description>
+    </item>
+    
+  </channel>
+</rss>
