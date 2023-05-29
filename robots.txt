@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: www.kitauji.net/sitemap.xml
+Sitemap: http://www.kitauji.net/sitemap.xml

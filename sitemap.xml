@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.kitauji.net/Blog/2023/</loc>
+    <loc>http://www.kitauji.net/Blog/2023/</loc>
   </url><url>
-    <loc>www.kitauji.net/Blog/2023/2023-05-29/</loc>
+    <loc>http://www.kitauji.net/Blog/2023/2023-05-29/</loc>
   </url><url>
-    <loc>www.kitauji.net/</loc>
+    <loc>http://www.kitauji.net/</loc>
     <lastmod>2023-05-29T19:21:53+00:00</lastmod>
   </url><url>
-    <loc>www.kitauji.net/posts/mypost/</loc>
+    <loc>http://www.kitauji.net/posts/mypost/</loc>
     <lastmod>2023-05-29T19:21:53+00:00</lastmod>
   </url><url>
-    <loc>www.kitauji.net/posts/</loc>
+    <loc>http://www.kitauji.net/posts/</loc>
     <lastmod>2023-05-29T19:21:53+00:00</lastmod>
   </url><url>
-    <loc>www.kitauji.net/Blog/</loc>
+    <loc>http://www.kitauji.net/Blog/</loc>
   </url><url>
-    <loc>www.kitauji.net/tags/</loc>
+    <loc>http://www.kitauji.net/tags/</loc>
   </url>
 </urlset>

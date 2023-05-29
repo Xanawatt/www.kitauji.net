@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023 on Kitauji</title>
-    <link>www.kitauji.net/Blog/2023/</link>
+    <link>http://www.kitauji.net/Blog/2023/</link>
     <description>Recent content in 2023 on Kitauji</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="www.kitauji.net/Blog/2023/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.kitauji.net/Blog/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
-      <link>www.kitauji.net/Blog/2023/2023-05-29/</link>
+      <link>http://www.kitauji.net/Blog/2023/2023-05-29/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.kitauji.net/Blog/2023/2023-05-29/</guid>
+      <guid>http://www.kitauji.net/Blog/2023/2023-05-29/</guid>
       <description>This is the start of my blogs that will document a variety of things: From the servers I stand up to the scripts that I write and the many networks I create.
 While this may be the first blog entry, this is not my first entry into the homelabbing space. My first entry into homelabbing was in 2020, prior to the start of Covid. I plan to start backfilling blog entries for past milestones&amp;hellip; So this won&amp;rsquo;t entirely contain new things.</description>
     </item>
